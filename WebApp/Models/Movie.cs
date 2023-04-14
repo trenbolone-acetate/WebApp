@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using WebApp.Data;
+using WebApp.Data.Enums;
 
 namespace WebApp.Models;
 
